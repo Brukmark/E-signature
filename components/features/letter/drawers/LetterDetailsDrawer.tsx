@@ -59,7 +59,7 @@ export default function LetterDetailsDrawer() {
         <div className="flex items-center gap-2">
           <MessageSquare size={20} className="text-gray-600" />
           <p className="text-gray-600">
-            {letterDetails.comments ? letterDetails.comments.length : 0}
+            {/* {letterDetails.comments ? letterDetails.comments.length : 0} */}
           </p>
         </div>
       </div>
